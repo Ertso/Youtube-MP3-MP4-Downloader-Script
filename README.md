@@ -1,10 +1,10 @@
 # Youtube-MP3-MP4-Downloader
 A script that I made when I got really bored that downloads a YouTube video as .mp4 or .mp3 in the desired file path in Python
 
-##Setup
+## Setup:
 You need to install pytube and moviepy for that, and you need to write
-###pip install pytube
-###pip install moviepy
+### pip install pytube
+### pip install moviepy
 
 then run the youtube_downloader.py file and follow the instructions it is basic really.
 
