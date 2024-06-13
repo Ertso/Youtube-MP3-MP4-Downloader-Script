@@ -9,5 +9,5 @@ You need to install pytube and moviepy for that, and you need to write
 then run the youtube_downloader.py file and follow the instructions it is basic really.
 
 ### Will do If I am bored again:
-#### The script will open a file explorer instead of asking for a written path.
-#### It will have video quality options for .mp4 files.
+#### The script will open a file explorer instead of asking for a written path. [DONE]
+#### It will have video quality options for .mp4 files. [DONE]
