@@ -1,4 +1,4 @@
-#DOES NOT WORK THANKS TO YOUTUBE CHANGING ITS ALGORITH AND BREAKING PYTUBE
+# DOES NOT WORK THANKS TO YOUTUBE CHANGING ITS ALGORITH AND BREAKING PYTUBE
 # Youtube-MP3-MP4-Downloader
 A script that I made when I got really bored that downloads a YouTube video as .mp4 or .mp3 in the desired folder in Python
 
